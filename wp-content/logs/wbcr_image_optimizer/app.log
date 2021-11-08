@@ -1,0 +1,645 @@
+
+18-09-2021 22:09:08 [www-test.site][info] Parent plugin start installation!
+18-09-2021 22:09:08 [www-test.site][info] Plugin installation: try create plugin tables.
+																	-DB Version: 2
+																	-Plugin Version in DB: 1.5.4
+																	-Current Plugin Version: 1.5.4
+18-09-2021 22:09:08 [www-test.site][info] Parent plugin installation complete!
+-------------------------------
+18-09-2021 22:29:03 [www-test.site][info] Try to create backup directory. Backup dir: (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup)
+18-09-2021 22:29:03 [www-test.site][info] Try to create backup directory. Backup dir: (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09)
+18-09-2021 22:29:03 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 29, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/logo_text.png
+18-09-2021 22:29:03 [www-test.site][debug] Deleted queue item #3
+-------------------------------
+18-09-2021 22:29:03 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 87, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/news_3.jpg
+18-09-2021 22:29:03 [www-test.site][debug] Deleted queue item #12
+-------------------------------
+18-09-2021 22:29:03 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 72, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/img_2.jpg
+18-09-2021 22:29:03 [www-test.site][debug] Deleted queue item #7
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 73, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/noimage.png
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #8
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 70, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/img_1.jpg
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #5
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 27, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/footer_logo.png
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #1
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 30, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/logo.png
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #4
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 28, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/logo_m.png
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #2
+-------------------------------
+18-09-2021 22:29:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 71, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/pic_bg.jpg
+18-09-2021 22:29:04 [www-test.site][debug] Deleted queue item #6
+-------------------------------
+18-09-2021 22:34:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 84, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/img_4.jpg
+18-09-2021 22:34:04 [www-test.site][debug] Deleted queue item #9
+-------------------------------
+18-09-2021 22:34:04 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 85, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/news_1.jpg
+18-09-2021 22:34:04 [www-test.site][debug] Deleted queue item #14
+-------------------------------
+18-09-2021 22:34:06 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 86, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/news_2.jpg
+18-09-2021 22:34:06 [www-test.site][debug] Deleted queue item #13
+-------------------------------
+18-09-2021 22:34:06 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 119, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/more_bg.jpg
+18-09-2021 22:34:06 [www-test.site][debug] Deleted queue item #15
+-------------------------------
+18-09-2021 22:34:12 [www-test.site][error] Unable to restore from a backup. There is no file, attachment id: 88, backup file: /var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/09/news_4.jpg
+18-09-2021 22:34:12 [www-test.site][debug] Deleted queue item #11
+-------------------------------
+18-09-2021 22:49:35 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:35 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/img_1.jpg) to a remote server (server_1).
+18-09-2021 22:49:36 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:36 [www-test.site][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"134","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":221661,"final_size":221661,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":221661,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994576}
+18-09-2021 22:49:36 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+18-09-2021 22:49:37 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:37 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/img_2.jpg) to a remote server (server_1).
+18-09-2021 22:49:37 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:38 [www-test.site][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"135","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":216311,"final_size":216311,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":216311,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994578}
+18-09-2021 22:49:38 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+18-09-2021 22:49:38 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:38 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/img_3.jpg) to a remote server (server_1).
+18-09-2021 22:49:38 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:39 [www-test.site][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"136","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":114718,"final_size":114718,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":114718,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994579}
+18-09-2021 22:49:39 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+18-09-2021 22:49:39 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:39 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/img_4.jpg) to a remote server (server_1).
+18-09-2021 22:49:39 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:40 [www-test.site][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"137","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":33997,"final_size":33997,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":33997,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994580}
+18-09-2021 22:49:40 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+18-09-2021 22:49:40 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:40 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/news_1.jpg) to a remote server (server_1).
+18-09-2021 22:49:40 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:40 [www-test.site][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"138","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":199344,"final_size":47044,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":199344,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994580}
+18-09-2021 22:49:40 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+18-09-2021 22:49:41 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:41 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/news_2.jpg) to a remote server (server_1).
+18-09-2021 22:49:41 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:41 [www-test.site][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"139","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116700,"final_size":26639,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":116700,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994581}
+18-09-2021 22:49:41 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+18-09-2021 22:49:42 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:42 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/news_3.jpg) to a remote server (server_1).
+18-09-2021 22:49:42 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:42 [www-test.site][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"140","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":203121,"final_size":56377,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":203121,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994582}
+18-09-2021 22:49:42 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+18-09-2021 22:49:42 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:42 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/news_4.jpg) to a remote server (server_1).
+18-09-2021 22:49:43 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:43 [www-test.site][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"141","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":231224,"final_size":68499,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":231224,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994583}
+18-09-2021 22:49:43 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+18-09-2021 22:49:44 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:44 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/pic_bg.jpg) to a remote server (server_1).
+18-09-2021 22:49:45 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:45 [www-test.site][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"142","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":771900,"final_size":163820,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":771900,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994585}
+18-09-2021 22:49:45 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+18-09-2021 22:49:46 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:46 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/belarus.png) to a remote server (server_1).
+18-09-2021 22:49:46 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:46 [www-test.site][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"143","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":26215,"final_size":9975,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":26215,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994586}
+18-09-2021 22:49:46 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+18-09-2021 22:49:46 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:46 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/calendar.png) to a remote server (server_1).
+18-09-2021 22:49:46 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:46 [www-test.site][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"144","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2296,"final_size":1519,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2296,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994586}
+18-09-2021 22:49:46 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+18-09-2021 22:49:47 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:47 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/footer_logo.png) to a remote server (server_1).
+18-09-2021 22:49:47 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:47 [www-test.site][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"145","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":5772,"final_size":3127,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":5772,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994587}
+18-09-2021 22:49:47 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+18-09-2021 22:49:47 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:47 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/heart.png) to a remote server (server_1).
+18-09-2021 22:49:48 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:48 [www-test.site][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"146","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2035,"final_size":1332,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2035,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994588}
+18-09-2021 22:49:48 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+18-09-2021 22:49:48 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:48 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/img_4.png) to a remote server (server_1).
+18-09-2021 22:49:49 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:49 [www-test.site][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"147","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":442185,"final_size":156419,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":442185,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994589}
+18-09-2021 22:49:49 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+18-09-2021 22:49:50 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:50 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/logo_m.png) to a remote server (server_1).
+18-09-2021 22:49:50 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:50 [www-test.site][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"148","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":4933,"final_size":2259,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":4933,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994590}
+18-09-2021 22:49:50 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+18-09-2021 22:49:50 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:50 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/logo_text.png) to a remote server (server_1).
+18-09-2021 22:49:51 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:51 [www-test.site][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"149","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3947,"final_size":2138,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":3947,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994591}
+18-09-2021 22:49:51 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+18-09-2021 22:49:51 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:51 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/logo.png) to a remote server (server_1).
+18-09-2021 22:49:51 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:51 [www-test.site][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"150","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6976,"final_size":3421,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":6976,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994591}
+18-09-2021 22:49:51 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+18-09-2021 22:49:52 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:52 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/news_bg.png) to a remote server (server_1).
+18-09-2021 22:49:52 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:52 [www-test.site][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"151","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116932,"final_size":40993,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":116932,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994592}
+18-09-2021 22:49:52 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+18-09-2021 22:49:53 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:53 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/noimage.png) to a remote server (server_1).
+18-09-2021 22:49:53 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:53 [www-test.site][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"152","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3130,"final_size":3130,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":3130,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994593}
+18-09-2021 22:49:53 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+18-09-2021 22:49:53 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:53 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/pic_bg.png) to a remote server (server_1).
+18-09-2021 22:49:56 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:56 [www-test.site][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"153","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1387736,"final_size":502415,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1387736,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994596}
+18-09-2021 22:49:56 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+18-09-2021 22:49:57 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:57 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/ticket.png) to a remote server (server_1).
+18-09-2021 22:49:57 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:57 [www-test.site][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"154","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1691,"final_size":1113,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1691,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994597}
+18-09-2021 22:49:57 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+18-09-2021 22:49:57 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:57 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/wallet.png) to a remote server (server_1).
+18-09-2021 22:49:57 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:58 [www-test.site][debug] New queue created #37, attributes values: {"server_id":null,"object_id":"155","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1998,"final_size":1277,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1998,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994598}
+18-09-2021 22:49:58 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+18-09-2021 22:49:58 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:58 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_1-min.jpg) to a remote server (server_1).
+18-09-2021 22:49:58 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:58 [www-test.site][debug] New queue created #38, attributes values: {"server_id":null,"object_id":"156","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":42240,"final_size":42240,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":42240,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994598}
+18-09-2021 22:49:58 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+18-09-2021 22:49:58 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:58 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_2-min.jpg) to a remote server (server_1).
+18-09-2021 22:49:59 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:49:59 [www-test.site][debug] New queue created #39, attributes values: {"server_id":null,"object_id":"157","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":83367,"final_size":83367,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":83367,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994599}
+18-09-2021 22:49:59 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+18-09-2021 22:49:59 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:49:59 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_3-min.jpg) to a remote server (server_1).
+18-09-2021 22:49:59 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:00 [www-test.site][debug] New queue created #40, attributes values: {"server_id":null,"object_id":"158","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":33078,"final_size":33078,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":33078,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994600}
+18-09-2021 22:50:00 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+18-09-2021 22:50:00 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:50:00 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_4-min.jpg) to a remote server (server_1).
+18-09-2021 22:50:00 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:00 [www-test.site][debug] New queue created #41, attributes values: {"server_id":null,"object_id":"159","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":36222,"final_size":36222,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":36222,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994600}
+18-09-2021 22:50:00 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+18-09-2021 22:50:01 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:50:01 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_5-min.jpg) to a remote server (server_1).
+18-09-2021 22:50:01 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:01 [www-test.site][debug] New queue created #42, attributes values: {"server_id":null,"object_id":"160","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":34406,"final_size":34406,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":34406,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994601}
+18-09-2021 22:50:01 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+18-09-2021 22:50:01 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:50:01 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_6-min.jpg) to a remote server (server_1).
+18-09-2021 22:50:01 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:02 [www-test.site][debug] New queue created #43, attributes values: {"server_id":null,"object_id":"161","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":38087,"final_size":38087,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":38087,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994602}
+18-09-2021 22:50:02 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+18-09-2021 22:50:02 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:50:02 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/i_7-min.jpg) to a remote server (server_1).
+18-09-2021 22:50:02 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:02 [www-test.site][debug] New queue created #44, attributes values: {"server_id":null,"object_id":"162","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":40004,"final_size":40004,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":40004,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994602}
+18-09-2021 22:50:02 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-09-2021 22:50:02 [www-test.site][info] Start bulk optimization process! Scope: media-library
+18-09-2021 22:50:02 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/more_bg.jpg) to a remote server (server_1).
+18-09-2021 22:50:03 [www-test.site][info] File successfully uploaded to remote server (server_1).
+18-09-2021 22:50:03 [www-test.site][debug] New queue created #45, attributes values: {"server_id":null,"object_id":"163","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":362273,"final_size":279617,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":362273,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631994603}
+18-09-2021 22:50:03 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+01-10-2021 16:29:03 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:03 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/belarus-1.png) to a remote server (server_1).
+01-10-2021 16:29:03 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:03 [www-test.site][debug] New queue created #46, attributes values: {"server_id":null,"object_id":"184","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":12187,"final_size":5320,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":12187,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094943}
+01-10-2021 16:29:03 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+01-10-2021 16:29:04 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:04 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/top_logo.png) to a remote server (server_1).
+01-10-2021 16:29:07 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:07 [www-test.site][debug] New queue created #47, attributes values: {"server_id":null,"object_id":"187","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":34349,"final_size":10662,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":34349,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094947}
+01-10-2021 16:29:07 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+01-10-2021 16:29:08 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:08 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/top_logo-1.png) to a remote server (server_1).
+01-10-2021 16:29:08 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:09 [www-test.site][debug] New queue created #48, attributes values: {"server_id":null,"object_id":"188","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6436,"final_size":3088,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":6436,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094949}
+01-10-2021 16:29:09 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+01-10-2021 16:29:09 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:09 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/top_logo-1-1.png) to a remote server (server_1).
+01-10-2021 16:29:10 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:10 [www-test.site][debug] New queue created #49, attributes values: {"server_id":null,"object_id":"189","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":18999,"final_size":6586,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":18999,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094950}
+01-10-2021 16:29:10 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+01-10-2021 16:29:11 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:11 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/wolfdog.jpg) to a remote server (server_1).
+01-10-2021 16:29:11 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:11 [www-test.site][debug] New queue created #50, attributes values: {"server_id":null,"object_id":"195","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":183057,"final_size":142858,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":183057,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094951}
+01-10-2021 16:29:11 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+01-10-2021 16:29:12 [www-test.site][info] Start bulk optimization process! Scope: media-library
+01-10-2021 16:29:12 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/Bison.jpg) to a remote server (server_1).
+01-10-2021 16:29:12 [www-test.site][info] File successfully uploaded to remote server (server_1).
+01-10-2021 16:29:19 [www-test.site][debug] New queue created #51, attributes values: {"server_id":null,"object_id":"197","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":230843,"final_size":211173,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":230843,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633094959}
+01-10-2021 16:29:19 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+05-10-2021 12:07:27 [www-test.site][info] Try to create backup directory. Backup dir: (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/wio_backup/2021/10)
+05-10-2021 12:07:27 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/Animals_1920x1200_014.jpg) to a remote server (server_1).
+05-10-2021 12:07:28 [www-test.site][info] File successfully uploaded to remote server (server_1).
+05-10-2021 12:07:28 [www-test.site][debug] New queue created #52, attributes values: {"server_id":null,"object_id":241,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":244386,"final_size":219037,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":244386,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633424848}
+-------------------------------
+08-10-2021 20:14:40 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:40 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/img-e1633108949153.jpg) to a remote server (server_1).
+08-10-2021 20:14:40 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:41 [www-test.site][debug] New queue created #53, attributes values: {"server_id":null,"object_id":"210","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":176935,"final_size":168017,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":176935,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713281}
+08-10-2021 20:14:41 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 61
+-------------------------------
+08-10-2021 20:14:41 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:41 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/-второй-вариант-2--e1633343765739.jpg) to a remote server (server_1).
+08-10-2021 20:14:41 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:42 [www-test.site][debug] New queue created #54, attributes values: {"server_id":null,"object_id":"232","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":230219,"final_size":208991,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":230219,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713282}
+08-10-2021 20:14:42 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 60
+-------------------------------
+08-10-2021 20:14:42 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:42 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/афиша-второй-вариант-2-1-1.jpg) to a remote server (server_1).
+08-10-2021 20:14:42 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:43 [www-test.site][debug] New queue created #55, attributes values: {"server_id":null,"object_id":"233","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":631701,"final_size":313335,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":631701,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713283}
+08-10-2021 20:14:43 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 59
+-------------------------------
+08-10-2021 20:14:43 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:43 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/news_bg.png) to a remote server (server_1).
+08-10-2021 20:14:43 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:44 [www-test.site][debug] New queue created #56, attributes values: {"server_id":null,"object_id":"249","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":95021,"final_size":71332,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":95021,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713284}
+08-10-2021 20:14:44 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+08-10-2021 20:14:44 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:44 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/news_bg-копия.png) to a remote server (server_1).
+08-10-2021 20:14:44 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:44 [www-test.site][debug] New queue created #57, attributes values: {"server_id":null,"object_id":"250","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":68892,"final_size":35282,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":68892,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713284}
+08-10-2021 20:14:44 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+08-10-2021 20:14:44 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:44 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/news_bg1.png) to a remote server (server_1).
+08-10-2021 20:14:45 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:45 [www-test.site][debug] New queue created #58, attributes values: {"server_id":null,"object_id":"251","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":59988,"final_size":31814,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":59988,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713285}
+08-10-2021 20:14:45 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+08-10-2021 20:14:45 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:45 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/2.jpg) to a remote server (server_1).
+08-10-2021 20:14:45 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:46 [www-test.site][debug] New queue created #59, attributes values: {"server_id":null,"object_id":"253","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":253162,"final_size":142200,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":253162,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713286}
+08-10-2021 20:14:46 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+08-10-2021 20:14:46 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:46 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/2-1.jpg) to a remote server (server_1).
+08-10-2021 20:14:46 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:47 [www-test.site][debug] New queue created #60, attributes values: {"server_id":null,"object_id":"256","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":253162,"final_size":142200,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":253162,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713287}
+08-10-2021 20:14:47 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+08-10-2021 20:14:47 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:48 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/oboi-37.jpg) to a remote server (server_1).
+08-10-2021 20:14:48 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:49 [www-test.site][debug] New queue created #61, attributes values: {"server_id":null,"object_id":"259","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":662929,"final_size":447404,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":662929,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713289}
+08-10-2021 20:14:49 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+08-10-2021 20:14:49 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:50 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/REVZINstr2-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:14:51 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:51 [www-test.site][debug] New queue created #62, attributes values: {"server_id":null,"object_id":"261","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":630783,"final_size":268938,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":630783,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713291}
+08-10-2021 20:14:51 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+08-10-2021 20:14:51 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:52 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:14:52 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:53 [www-test.site][debug] New queue created #63, attributes values: {"server_id":null,"object_id":"262","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":573810,"final_size":253150,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":573810,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713293}
+08-10-2021 20:14:53 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+08-10-2021 20:14:53 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:55 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев1-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:14:55 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:56 [www-test.site][debug] New queue created #64, attributes values: {"server_id":null,"object_id":"263","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":896861,"final_size":376056,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":896861,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713296}
+08-10-2021 20:14:56 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+08-10-2021 20:14:56 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:57 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев2-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:14:57 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:14:58 [www-test.site][debug] New queue created #65, attributes values: {"server_id":null,"object_id":"264","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":554435,"final_size":220404,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":554435,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713298}
+08-10-2021 20:14:58 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+08-10-2021 20:14:58 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:14:59 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев3-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:14:59 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:00 [www-test.site][debug] New queue created #66, attributes values: {"server_id":null,"object_id":"265","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":651636,"final_size":266910,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":651636,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713300}
+08-10-2021 20:15:00 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+08-10-2021 20:15:00 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:01 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев4-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:15:01 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:02 [www-test.site][debug] New queue created #67, attributes values: {"server_id":null,"object_id":"266","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":620388,"final_size":246561,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":620388,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713302}
+08-10-2021 20:15:02 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+08-10-2021 20:15:02 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:03 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев5-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:15:03 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:03 [www-test.site][debug] New queue created #68, attributes values: {"server_id":null,"object_id":"267","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":409067,"final_size":177839,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":409067,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713303}
+08-10-2021 20:15:03 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+08-10-2021 20:15:04 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:05 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев7-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:15:05 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:06 [www-test.site][debug] New queue created #69, attributes values: {"server_id":null,"object_id":"268","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":680181,"final_size":257066,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":680181,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713306}
+08-10-2021 20:15:06 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+08-10-2021 20:15:06 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:07 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев8.jpeg) to a remote server (server_1).
+08-10-2021 20:15:08 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:08 [www-test.site][debug] New queue created #70, attributes values: {"server_id":null,"object_id":"269","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":804211,"final_size":391954,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":804211,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713308}
+08-10-2021 20:15:08 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+08-10-2021 20:15:08 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:09 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев9-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:15:09 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:10 [www-test.site][debug] New queue created #71, attributes values: {"server_id":null,"object_id":"270","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":704660,"final_size":296003,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":704660,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713310}
+08-10-2021 20:15:10 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+08-10-2021 20:15:10 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:11 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бышнев10-scaled.jpeg) to a remote server (server_1).
+08-10-2021 20:15:11 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:12 [www-test.site][debug] New queue created #72, attributes values: {"server_id":null,"object_id":"271","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":467135,"final_size":217452,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":467135,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713312}
+08-10-2021 20:15:12 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+08-10-2021 20:15:12 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:13 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/REVZINstr2-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:14 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:14 [www-test.site][debug] New queue created #73, attributes values: {"server_id":null,"object_id":"275","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":630783,"final_size":268938,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":630783,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713314}
+08-10-2021 20:15:14 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+08-10-2021 20:15:14 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:15 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/правила-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:15 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:16 [www-test.site][debug] New queue created #74, attributes values: {"server_id":null,"object_id":"276","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":154129,"final_size":71602,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":154129,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713316}
+08-10-2021 20:15:16 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+08-10-2021 20:15:16 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:16 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/870x489_0x0_detail_crop_20210718124911_6bf99691_ae076fe4248b17f90fcc6b9e26d0d8a35ee215998c8f88cf9bb7ba391ebb10c2.jpg) to a remote server (server_1).
+08-10-2021 20:15:16 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:16 [www-test.site][debug] New queue created #75, attributes values: {"server_id":null,"object_id":"277","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":95475,"final_size":75676,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":95475,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713316}
+08-10-2021 20:15:16 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+08-10-2021 20:15:17 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:17 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/1215.jpg) to a remote server (server_1).
+08-10-2021 20:15:18 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:18 [www-test.site][debug] New queue created #76, attributes values: {"server_id":null,"object_id":"278","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":17371,"final_size":16836,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":17371,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713318}
+08-10-2021 20:15:18 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+08-10-2021 20:15:18 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:19 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/правила-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:19 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:20 [www-test.site][debug] New queue created #77, attributes values: {"server_id":null,"object_id":"279","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":154129,"final_size":71602,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":154129,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713320}
+08-10-2021 20:15:20 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+08-10-2021 20:15:20 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:20 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/ревзин.jpg) to a remote server (server_1).
+08-10-2021 20:15:20 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:20 [www-test.site][debug] New queue created #78, attributes values: {"server_id":null,"object_id":"290","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":77185,"final_size":74597,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":77185,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713320}
+08-10-2021 20:15:20 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+08-10-2021 20:15:21 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:21 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/DSC0087-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:22 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:23 [www-test.site][debug] New queue created #79, attributes values: {"server_id":null,"object_id":"304","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":966222,"final_size":436128,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":966222,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713323}
+08-10-2021 20:15:23 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+08-10-2021 20:15:23 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:24 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/DSC0134-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:24 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:25 [www-test.site][debug] New queue created #80, attributes values: {"server_id":null,"object_id":"305","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1386837,"final_size":583292,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1386837,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713325}
+08-10-2021 20:15:25 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+08-10-2021 20:15:25 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:26 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/DSC0297-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:27 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:27 [www-test.site][debug] New queue created #81, attributes values: {"server_id":null,"object_id":"306","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":815467,"final_size":382154,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":815467,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713327}
+08-10-2021 20:15:27 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+08-10-2021 20:15:27 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:28 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/1-2-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:29 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:29 [www-test.site][debug] New queue created #82, attributes values: {"server_id":null,"object_id":"307","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":796460,"final_size":366981,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":796460,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713329}
+08-10-2021 20:15:29 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+08-10-2021 20:15:29 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:30 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/5-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:31 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:31 [www-test.site][debug] New queue created #83, attributes values: {"server_id":null,"object_id":"308","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1238843,"final_size":526927,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1238843,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713331}
+08-10-2021 20:15:31 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+08-10-2021 20:15:31 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:32 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/территория-зоопарка5-44-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:33 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:33 [www-test.site][debug] New queue created #84, attributes values: {"server_id":null,"object_id":"309","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":829415,"final_size":373354,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":829415,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713333}
+08-10-2021 20:15:33 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+08-10-2021 20:15:33 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:34 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/Панорама-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:34 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:34 [www-test.site][debug] New queue created #85, attributes values: {"server_id":null,"object_id":"312","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":388572,"final_size":151365,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":388572,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713334}
+08-10-2021 20:15:34 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+08-10-2021 20:15:35 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:36 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бросать-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:36 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:36 [www-test.site][debug] New queue created #86, attributes values: {"server_id":null,"object_id":"327","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":272298,"final_size":139835,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":272298,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713336}
+08-10-2021 20:15:36 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+08-10-2021 20:15:37 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:37 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/велик-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:38 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:38 [www-test.site][debug] New queue created #87, attributes values: {"server_id":null,"object_id":"328","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":332543,"final_size":166945,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":332543,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713338}
+08-10-2021 20:15:38 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+08-10-2021 20:15:38 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:39 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/вещи-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:40 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:40 [www-test.site][debug] New queue created #88, attributes values: {"server_id":null,"object_id":"329","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":285581,"final_size":144166,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":285581,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713340}
+08-10-2021 20:15:40 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+08-10-2021 20:15:40 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:41 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/дом.-жив-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:41 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:42 [www-test.site][debug] New queue created #89, attributes values: {"server_id":null,"object_id":"330","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":236456,"final_size":121398,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":236456,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713342}
+08-10-2021 20:15:42 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+08-10-2021 20:15:42 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:43 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/заграж-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:43 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:44 [www-test.site][debug] New queue created #90, attributes values: {"server_id":null,"object_id":"331","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":341107,"final_size":171831,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":341107,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713344}
+08-10-2021 20:15:44 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+08-10-2021 20:15:44 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:45 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/корм-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:45 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:45 [www-test.site][debug] New queue created #91, attributes values: {"server_id":null,"object_id":"332","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":291307,"final_size":146015,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":291307,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713345}
+08-10-2021 20:15:45 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+08-10-2021 20:15:46 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:47 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/бросать-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:47 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:47 [www-test.site][debug] New queue created #92, attributes values: {"server_id":null,"object_id":"333","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":272298,"final_size":139835,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":272298,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713347}
+08-10-2021 20:15:47 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+08-10-2021 20:15:47 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:48 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/велик-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:49 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:50 [www-test.site][debug] New queue created #93, attributes values: {"server_id":null,"object_id":"334","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":332543,"final_size":166945,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":332543,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713350}
+08-10-2021 20:15:50 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+08-10-2021 20:15:50 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:51 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/вещи-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:52 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:52 [www-test.site][debug] New queue created #94, attributes values: {"server_id":null,"object_id":"335","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":285581,"final_size":144166,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":285581,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713352}
+08-10-2021 20:15:52 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+08-10-2021 20:15:52 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:53 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/дом.-жив-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:53 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:54 [www-test.site][debug] New queue created #95, attributes values: {"server_id":null,"object_id":"336","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":236456,"final_size":121398,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":236456,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713354}
+08-10-2021 20:15:54 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+08-10-2021 20:15:54 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:55 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/заграж-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:55 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:55 [www-test.site][debug] New queue created #96, attributes values: {"server_id":null,"object_id":"337","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":341107,"final_size":171831,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":341107,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713355}
+08-10-2021 20:15:56 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+08-10-2021 20:15:56 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:57 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/курить-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:57 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:57 [www-test.site][debug] New queue created #97, attributes values: {"server_id":null,"object_id":"338","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":226471,"final_size":110775,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":226471,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713357}
+08-10-2021 20:15:57 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+08-10-2021 20:15:58 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:15:59 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/ломать-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:15:59 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:15:59 [www-test.site][debug] New queue created #98, attributes values: {"server_id":null,"object_id":"339","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":266209,"final_size":135877,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":266209,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713359}
+08-10-2021 20:15:59 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+08-10-2021 20:16:00 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:00 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/ответственность-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:01 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:01 [www-test.site][debug] New queue created #99, attributes values: {"server_id":null,"object_id":"340","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":284182,"final_size":147643,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":284182,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713361}
+08-10-2021 20:16:01 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+08-10-2021 20:16:01 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:02 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/пить-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:03 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:03 [www-test.site][debug] New queue created #100, attributes values: {"server_id":null,"object_id":"341","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":289567,"final_size":142878,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":289567,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713363}
+08-10-2021 20:16:03 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+08-10-2021 20:16:03 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:04 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/скамейка-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:05 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:05 [www-test.site][debug] New queue created #101, attributes values: {"server_id":null,"object_id":"342","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":257518,"final_size":130607,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":257518,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713365}
+08-10-2021 20:16:05 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+08-10-2021 20:16:05 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:06 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/корм-1-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:06 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:07 [www-test.site][debug] New queue created #102, attributes values: {"server_id":null,"object_id":"343","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":291307,"final_size":146015,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":291307,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713367}
+08-10-2021 20:16:07 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+08-10-2021 20:16:07 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:08 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/стройка-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:08 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:09 [www-test.site][debug] New queue created #103, attributes values: {"server_id":null,"object_id":"344","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":253723,"final_size":128529,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":253723,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713369}
+08-10-2021 20:16:09 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+08-10-2021 20:16:09 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:10 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/стучать-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:10 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:11 [www-test.site][debug] New queue created #104, attributes values: {"server_id":null,"object_id":"345","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":275218,"final_size":139606,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":275218,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713371}
+08-10-2021 20:16:11 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+08-10-2021 20:16:11 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:12 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/фото-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:12 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:12 [www-test.site][debug] New queue created #105, attributes values: {"server_id":null,"object_id":"346","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":227923,"final_size":112744,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":227923,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713372}
+08-10-2021 20:16:12 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+08-10-2021 20:16:13 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:14 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/шум-scaled.jpg) to a remote server (server_1).
+08-10-2021 20:16:14 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:14 [www-test.site][debug] New queue created #106, attributes values: {"server_id":null,"object_id":"347","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":340824,"final_size":173465,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":340824,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713374}
+08-10-2021 20:16:14 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+08-10-2021 20:16:15 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:17 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/transparent-camera-lens-5fe59d26881676.4916731216088834945574.png) to a remote server (server_1).
+08-10-2021 20:16:19 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:19 [www-test.site][debug] New queue created #107, attributes values: {"server_id":null,"object_id":"348","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2571235,"final_size":242736,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2571235,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713379}
+08-10-2021 20:16:19 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+08-10-2021 20:16:19 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:19 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/5a36966ce20ac0.4113131115135268929259.png) to a remote server (server_1).
+08-10-2021 20:16:20 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:20 [www-test.site][debug] New queue created #108, attributes values: {"server_id":null,"object_id":"349","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":47063,"final_size":17114,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":47063,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713380}
+08-10-2021 20:16:20 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+08-10-2021 20:16:20 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:20 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/10/5a36966ce20ac0.4113131115135268929259-1.png) to a remote server (server_1).
+08-10-2021 20:16:21 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:22 [www-test.site][debug] New queue created #109, attributes values: {"server_id":null,"object_id":"351","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":47063,"final_size":17114,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":47063,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713382}
+08-10-2021 20:16:22 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+08-10-2021 20:16:22 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:22 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/oleni_trava_listya_osen_derevya_59721_1280x800.jpg) to a remote server (server_1).
+08-10-2021 20:16:23 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:23 [www-test.site][debug] New queue created #110, attributes values: {"server_id":null,"object_id":"355","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":248160,"final_size":234634,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":248160,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713383}
+08-10-2021 20:16:23 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+08-10-2021 20:16:23 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:27 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/IMG_8093.jpg) to a remote server (server_1).
+08-10-2021 20:16:27 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:28 [www-test.site][debug] New queue created #111, attributes values: {"server_id":null,"object_id":"356","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16891788,"final_size":368420,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":16891788,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713388}
+08-10-2021 20:16:28 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+08-10-2021 20:16:28 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:31 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/IMG_8154.jpg) to a remote server (server_1).
+08-10-2021 20:16:32 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:32 [www-test.site][debug] New queue created #112, attributes values: {"server_id":null,"object_id":"357","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16560838,"final_size":320792,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":16560838,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713392}
+08-10-2021 20:16:32 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+08-10-2021 20:16:32 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:32 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/tigr_belyj_tigr_hishchnik_130927_1280x800.jpg) to a remote server (server_1).
+08-10-2021 20:16:33 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:33 [www-test.site][debug] New queue created #113, attributes values: {"server_id":null,"object_id":"358","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":181041,"final_size":172641,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":181041,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713393}
+08-10-2021 20:16:33 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+08-10-2021 20:16:33 [www-test.site][info] Start bulk optimization process! Scope: media-library
+08-10-2021 20:16:33 [www-test.site][info] Preparing to upload a file (/var/www/u1068791/data/www/www-test.site/wp-content/uploads/2021/09/обрезанные-олени.jpg) to a remote server (server_1).
+08-10-2021 20:16:34 [www-test.site][info] File successfully uploaded to remote server (server_1).
+08-10-2021 20:16:34 [www-test.site][debug] New queue created #114, attributes values: {"server_id":null,"object_id":"359","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":627939,"final_size":312690,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":627939,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1633713394}
+08-10-2021 20:16:34 [www-test.site][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------

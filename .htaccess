@@ -1,0 +1,42 @@
+# BEGIN WordPress
+# Директивы (строки) между `BEGIN WordPress` и `END WordPress`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Hide admin URL start
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteRule ^enter-zootechnician/?$ /wp-login.php?sdf79862gsdf7634yrgksf876 [R,L]
+
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+RewriteRule ^enter-zootechnician/?$ /wp-login.php?sdf79862gsdf7634yrgksf876&redirect_to=/wp-admin/ [R,L]
+
+RewriteRule ^enter-zootechnician/?$ /wp-admin/?sdf79862gsdf7634yrgksf876 [R,L]
+
+RewriteCond %{SCRIPT_FILENAME} !^(.*)admin-ajax\.php
+RewriteCond %{HTTP_REFERER} !^(.*)site.com/wp-admin
+RewriteCond %{HTTP_REFERER} !^(.*)site.com/wp-login\.php
+RewriteCond %{HTTP_REFERER} !^(.*)site.com/enter-zootechnician
+RewriteCond %{QUERY_STRING} !^sdf79862gsdf7634yrgksf876
+RewriteCond %{QUERY_STRING} !^action=logout
+RewriteCond %{QUERY_STRING} !^action=rp
+RewriteCond %{QUERY_STRING} !^action=postpass
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+RewriteRule ^.*wp-admin/?|^.*wp-login\.php /not_found [R,L]
+
+RewriteCond %{QUERY_STRING} ^loggedout=true
+RewriteRule ^.*$ /wp-login.php?sdf79862gsdf7634yrgksf876 [R,L]
+</IfModule>
+# Hide admin URL end
