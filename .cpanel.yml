@@ -2,3 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/letransp/zoo
+    - /bin/cp wp-content $DEPLOYPATH
