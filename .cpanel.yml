@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export REPOPATH=/home/letransp/zoo/*
-    - export SITEPATH=/home/letransp/testzoo/
+    - export REPOPATH=/home/minskzoo/repositories/zoo/*
+    - export SITEPATH=/home/minskzoo/public_html/
     - /bin/rsync -rav --exclude '.git' --exclude '.cpanel.yml' --del $REPOPATH $SITEPATH
