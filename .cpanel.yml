@@ -1,16 +1,6 @@
 ---
 deployment:
   tasks:
-    # - export REPOPATH=/home/letransp/zoo/*
-    # - export SITEPATH=/home/letransp/testzoo/
-
-    # - export DEPLOYPATH=/home/letransp/zoo/
-    # - /bin/cp index.html $DEPLOYPATH
-    # - /bin/cp style.css $DEPLOYPATH
-    # - /bin/rsync -rav --exclude '.git' --exclude '.cpanel.yml' --del $REPOPATH $SITEPATH
-
-
-
-
-     - export DEPLOYPATH=/home/letransp/zoo/
-     - /bin/cp -R wp-content $DEPLOYPATH
+    - export REPOPATH=/home/letransp/zoo/*
+    - export SITEPATH=/home/letransp/testzoo/
+    - /bin/rsync -rav --exclude '.git' --exclude '.cpanel.yml' --del $REPOPATH $SITEPATH
