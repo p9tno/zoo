@@ -1,5 +1,5 @@
 <?php
-global $zoo_options; 
+global $zoo_options;
 ?>
 
 
@@ -28,7 +28,7 @@ global $zoo_options;
                         'menu_class' => 'list',
                         'container'=>'navbar',
                         'add_li_class' => 'list__item'
-                        )); 
+                        ));
                     ?>
                 </div>
             <?php } ?>
@@ -41,7 +41,7 @@ global $zoo_options;
                         'menu_class' => 'list',
                         'container'=>'navbar',
                         'add_li_class' => 'list__item'
-                        )); 
+                        ));
                     ?>
                 </div>
             <?php } ?>
@@ -89,18 +89,19 @@ global $zoo_options;
                 <?php  wp_nav_menu(array(
                     'theme_location' => 'zoo-languages',
                     'menu_class' => 'list',
-                    )); 
+                    ));
                 ?>
             </div>
         </div>
 
         <div class="footer__bottom">
+            <!-- test commit for footer no target _blanc in facebook -->
             <div class="social">
                 <ul class="social__list">
 
                     <?php if($zoo_options['facebook']){?>
                         <li class="social__item">
-                            <a class="social__link" href="<?php echo esc_url($zoo_options['facebook']); ?>" target="_blank">
+                            <a class="social__link" href="<?php echo esc_url($zoo_options['facebook']); ?>">
                                 <i class="social__icon icon-facebook"></i>
                             </a>
                         </li>
@@ -121,7 +122,7 @@ global $zoo_options;
                             </a>
                         </li>
                     <?php } ?>
-                    
+
                 </ul>
             </div>
             <div class="copyright"><span class="copyright__txt">© ГКПУ «Минский зоопарк», 2021</span></div>
